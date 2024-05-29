@@ -2,7 +2,7 @@
 
 
 # Tutorial de Validación de Formulario con Firebase
-
+Despliegue del formulario aqui: https://validacion-formulario-javascript-firebase-hs23p15hg.vercel.app
 
  Aplicación de validación de formulario utilizando JavaScript y Firebase. La aplicación permite a los usuarios ingresar su nombre, correo electrónico y contraseña, y luego guarda los datos en una base de datos de Firebase. A continuación, se explica el funcionamiento del código JavaScript:
 
